@@ -28,3 +28,7 @@
 
 ![index public](images/image_final.png)
 
+<h3>Step 8: We go to the hosting link of the S3 bucket and see the HTML page</h3>
+
+![Webpage](images/image_webpage.png)
+
