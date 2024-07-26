@@ -6,5 +6,5 @@
 
 <h3>Step 2: To give Github permission to deploy the code to Amazon S3, an IAM policy was created</h3>
 
-![IAM created](images/image)
+![IAM created](images/image.png)
 
