@@ -10,3 +10,5 @@
 <p>The IAM user is called: "github", it gives full permissions to Amazon S3, additionally the access keys were created to use the policy in Github</p>
 
 <h3>Step 3: We take the access keys and add them to Github in the secrets section</h3>
+
+![Secret section](images/image_secret.png)
