@@ -24,3 +24,7 @@
 
 ![Workflow in action](images/image_action.png)
 
+<h3>Step 7: We go to the S3 bucket and make the index.html public using ACL</h3>
+
+![index public](images/image_final.png)
+
