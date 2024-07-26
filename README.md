@@ -2,7 +2,6 @@
 <h3>Step 1: Both the repository and the bucket were created.</h3>
 
 ![Bucket created](images/image_S3.png)
-<p>The bucket name is: santiagoweb1605</p>
 
 <h3>Step 2: We enable the option to hosting static websites in the S3 bucket</h3>
 
@@ -24,3 +23,4 @@
 <h3>Step 6: We create the example HTML code and make a commit, let the workflow run</h3>
 
 ![Workflow in action](images/image_action.png)
+
