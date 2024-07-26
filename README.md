@@ -20,3 +20,7 @@
 <h3>Step 5: We create the Github Actions workflow to deploy the code stored in the main folder</h3>
 
 ![Workflow](images/image_yml.png)
+
+<h3>Step 6: We create the example HTML code and make a commit, let the workflow run</h3>
+
+![Workflow in action](images/image_action.png)
