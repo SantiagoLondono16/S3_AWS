@@ -16,3 +16,7 @@
 <h3>Step 4: We take the access keys and add them to Github in the secrets section</h3>
 
 ![Secret section](images/image_secret.png)
+
+<h3>Step 5: We create the Github Actions workflow to deploy the code stored in the main folder</h3>
+
+![Workflow](images/image_yml)
