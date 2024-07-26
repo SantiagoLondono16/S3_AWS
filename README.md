@@ -4,7 +4,7 @@
 ![Bucket created](images/image_S3.png)
 <p>The bucket name is: santiagoweb1605</p>
 
-<h3>Step 2: We enable the option to store static websites in the S3 bucket</h3>
+<h3>Step 2: We enable the option to hosting static websites in the S3 bucket</h3>
 
 <h3>Step 3: To give Github permission to deploy the code to Amazon S3, an IAM policy was created</h3>
 
